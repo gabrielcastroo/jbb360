@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node1" apprev="18043">
+  <panorama id="node1">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="270">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83690993" description="" title="" heading="270" author="" comment="" latitude="-15.87561525" nodeid="node1" info="" tags="Jpgs" datetime="01/02/2021 18:47" altitude="1111.90" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/babosa3.jpg" distance3D="22848" description="Teste teste teste" title="" fov="15" pan="-307.28" use3D="1" id="Point03" skinid="ht_image" tilt="-19.05" target="_blank" customimagewidth="6016" url="images/Babosa_A.jpg" customimageheight="4016"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="344.7" use3D="1" id="Point01" skinid="ht_node" tilt="-20.13" target="$fwd" distance="3.89806" customimagewidth="104" url="{node2}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="229.585" use3D="1" id="Point02" skinid="ht_node" tilt="-7.22" target="$fwd" distance="9.10856" customimagewidth="104" url="{node4}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="270">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83694534" description="" title="" heading="270" author="" comment="" latitude="-15.87560695" nodeid="node2" info="" tags="Jpgs" datetime="01/02/2021 18:54" altitude="1109.80" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/lavanda3.jpg" distance3D="16151" description="" title="" fov="21.1" pan="-42.34" use3D="1" id="Point06" skinid="ht_image" tilt="3.28" target="" customimagewidth="6016" url="images/lavanda 1.png" customimageheight="4016"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="174.69" use3D="1" id="Point01" skinid="ht_node" tilt="-12.2" target="-14.0/-11.1/100.0" distance="3.89806" customimagewidth="104" url="{node1}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="300.37" use3D="1" id="Point03" skinid="ht_node" tilt="-19.04" target="147.5/-31.1/100.0" distance="4.14789" customimagewidth="104" url="{node7}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="711.47" use3D="1" id="Point04" skinid="ht_node" tilt="-29.09" target="-16.0/0.0/100.0" distance="9.64291" customimagewidth="104" url="{node6}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="-0.247671" height="1520" levelingpitch="-4.08683" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="219.592">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83685580" description="" title="" heading="219.592" author="" comment="" latitude="-15.87555201" nodeid="node4" info="" tags="Jpgs" datetime="01/02/2021 18:44" altitude="1118.10" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/lavanda3.jpg" distance3D="11813.8" description="" title="" fov="28.57" pan="-169.14" use3D="1" id="Point06" skinid="ht_image" tilt="-13.22" target="" customimagewidth="6016" url="images/lavanda 1.png" customimageheight="4016"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="245.746" description="" title="" fov="10" pan="373.97" use3D="1" id="Point01" skinid="ht_node" tilt="-25.09" target="-15.2/-10.5/100.0" distance="9.10856" customimagewidth="43" url="{node1}" customimageheight="36"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="-43.55" use3D="1" id="Point02" skinid="ht_node" tilt="-13.61" target="1.8/-2.1/100.0" distance="26.1344" customimagewidth="104" url="{node9}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="270">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83703202" description="" title="" heading="270" author="" comment="" latitude="-15.87558309" nodeid="node6" info="" tags="Jpgs" datetime="01/02/2021 19:03" altitude="1110.10" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/mirra3.jpg" distance3D="11312.8" description="" title="" fov="29.78" pan="-130.74" use3D="1" id="Point05" skinid="ht_image" tilt="-29.15" target="" customimagewidth="6016" url="images/mirra 1.png" customimageheight="4016"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="176.55" use3D="1" id="Point01" skinid="ht_node" tilt="-5.04" target="176.2/-8.6/100.0" distance="9.64291" customimagewidth="104" url="{node2}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="77.8334" use3D="1" id="Point02" skinid="ht_node" tilt="-26.5" target="-25.4/-17.6/100.0" distance="7.04643" customimagewidth="104" url="{node3}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="328.42" use3D="1" id="Point03" skinid="ht_node" tilt="-18.33" target="1.1/-15.6/100.0" distance="7.13521" customimagewidth="104" url="{node8}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="396.413">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83702734" description="" title="" heading="396.413" author="" comment="" latitude="-15.87564630" nodeid="node3" info="" tags="Jpgs" datetime="01/02/2021 19:01" altitude="1110.30" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="15.28" use3D="1" id="Point01" skinid="ht_node" tilt="-16.4" target="-33.0/-10.1/100.0" distance="7.04643" customimagewidth="104" url="{node6}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="237.529">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83696613" description="" title="" heading="237.529" author="" comment="" latitude="-15.87557546" nodeid="node7" info="" tags="Jpgs" datetime="01/02/2021 18:58" altitude="1110.40" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="71.56" use3D="1" id="Point01" skinid="ht_node" tilt="-12.64" target="-5.5/-21.8/100.0" distance="4.14789" customimagewidth="104" url="{node2}" customimageheight="85"/>
+      <hotspot customimage="media/alecrim3.jpg" distance3D="10615.9" description="" title="" fov="31.64" pan="-18.04" use3D="1" id="Point03" skinid="ht_image" tilt="-45.88" target="" customimagewidth="6016" url="images/alecrim 1.png" customimageheight="4016"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="319.542">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83708567" description="" title="" heading="319.542" author="" comment="" latitude="-15.87554495" nodeid="node8" info="" tags="Jpgs" datetime="01/02/2021 19:05" altitude="1110.60" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="181.02" use3D="1" id="Point01" skinid="ht_node" tilt="-24.34" target="-179.4/-5.6/100.0" distance="7.13521" customimagewidth="104" url="{node6}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="-0.75" use3D="1" id="Point02" skinid="ht_node" tilt="-32.42" target="$fwd" distance="3.65521" customimagewidth="104" url="{node9}" customimageheight="85"/>
+      <hotspot customimage="media/carqueja3.jpg" distance3D="9566.35" description="" title="" fov="34.91" pan="-102.51" use3D="1" id="Point03" skinid="ht_image" tilt="-42.58" target="" customimagewidth="6016" url="images/carqueja 1.png" customimageheight="4016"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="456.668">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83709692" description="" title="" heading="456.668" author="" comment="" latitude="-15.87551391" nodeid="node9" info="" tags="Jpgs" datetime="01/02/2021 19:06" altitude="1111.10" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/capuchinha3.jpg" distance3D="5799.3" description="" title="" fov="54.83" pan="-263.81" use3D="1" id="Point03" skinid="ht_image" tilt="-23.52" target="" customimagewidth="6016" url="images/capuchinha1.png" customimageheight="4016"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="298.75" use3D="1" id="Point01" skinid="ht_node" tilt="-13.84" target="-177.9/-7.4/100.0" distance="3.65521" customimagewidth="104" url="{node8}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="192.22" use3D="1" id="Point02" skinid="ht_node" tilt="-11.45" target="3.6/-15.1/100.0" distance="3.46259" customimagewidth="104" url="{node10}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="233.8">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83712912" description="" title="" heading="233.8" author="" comment="" latitude="-15.87551714" nodeid="node10" info="" tags="Jpgs" datetime="01/02/2021 19:08" altitude="1111.00" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/açafrão3.jpg" distance3D="6269.75" description="" title="" fov="51.26" pan="-264.19" use3D="1" id="Point04" skinid="ht_image" tilt="-3.3" target="" customimagewidth="6016" url="images/açafrão 1.png" customimageheight="4016"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="178.05" use3D="1" id="Point01" skinid="ht_node" tilt="-20.44" target="12.6/0.0/100.0" distance="3.46259" customimagewidth="104" url="{node9}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="-234.21" use3D="1" id="Point02" skinid="ht_node" tilt="-6.83" target="" distance="18.0212" customimagewidth="104" url="{node3}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="288.182">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83692455" description="" title="" heading="288.182" author="" comment="" latitude="-15.87205747" nodeid="node11" info="" tags="Jpgs" datetime="01/02/2021 14:11" altitude="1111.60" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="178.5" use3D="1" id="Point02" skinid="ht_node" tilt="-13.07" target="$fwd" distance="7.81587" customimagewidth="104" url="{node12}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="-2.19001" use3D="1" id="Point03" skinid="ht_node" tilt="-12.2" target="" distance="8.40864" customimagewidth="104" url="{node14}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="478.654">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83699444" description="" title="" heading="478.654" author="" comment="" latitude="-15.87202284" nodeid="node14" info="" tags="Jpgs" datetime="01/02/2021 14:19" altitude="1111.80" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="-353.13" use3D="1" id="Point01" skinid="ht_node" tilt="-24.81" target="" distance="8.40864" customimagewidth="104" url="{node11}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="992.219" description="" title="" fov="6" pan="-356.25" use3D="1" id="Point02" skinid="ht_node" tilt="-9.61" target="" distance="8.40864" customimagewidth="104" url="{node11}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="476.841">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.83686033" description="" title="" heading="476.841" author="" comment="" latitude="-15.87209101" nodeid="node12" info="" tags="Jpgs" datetime="01/02/2021 14:13" altitude="1111.70" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="594.363" description="" title="" fov="10" pan="-184.03" use3D="1" id="Point01" skinid="ht_node" tilt="-25.15" target="0.0/0.0/100.0" distance="7.81587" customimagewidth="104" url="{node11}" customimageheight="85"/>
+      <hotspot customimage="media/SetaSeta.png" distance3D="1191" description="" title="" fov="5" pan="-183.24" use3D="1" id="Point02" skinid="ht_node" tilt="-7.63" target="" distance="16.2236" customimagewidth="104" url="{node14}" customimageheight="85"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" height="1520" levelingpitch="0" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="1520" width="1520"/>
+      <level predecode="0" preload="0" height="760" width="760"/>
+      <level predecode="1" preload="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="270">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata longitude="-47.836917" description="" title="" heading="270" author="" comment="" latitude="-15.881889" nodeid="node15" info="" tags="Jpgs" datetime="01/02/2021 18:21" altitude="1101.80" source="" copyright="" customnodeid=""/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label wordwrap="1" enabled="1" height="0" bordercolor="0x000000" border="1" textalpha="1" borderradius="1" width="180" borderalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" sensitivity="8" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata longitude="" description="" title="" heading="0" author="" comment="" latitude="" nodeid="master" info="" tags="" datetime="" source="" copyright="" customnodeid=""/>
+  </masternode>
+</tour>
